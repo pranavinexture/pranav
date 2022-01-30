@@ -1,0 +1,8 @@
+Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows. Wikipedia
+Repository: git.kernel.org/pub/scm/git/git.git
+License: GPL-2.0-only
+Developer(s): Junio Hamano and others
+Original author(s): Linus Torvalds
+Stable release: 2.35.0 / 24 January 2022
+Initial release: 7 April 2005; 16 years ago
+Written in: C, Shell, Perl, Tcl
