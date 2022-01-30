@@ -4,5 +4,10 @@ License: GPL-2.0-only
 Developer(s): Junio Hamano and others
 Original author(s): Linus Torvalds
 Stable release: 2.35.0 / 24 January 2022
+
+
+
+
+
 Initial release: 7 April 2005; 16 years ago
 Written in: C, Shell, Perl, Tcl
